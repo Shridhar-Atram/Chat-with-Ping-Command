@@ -1,7 +1,7 @@
 """
 Ping Data Exfiltration
 This script will allow you to convert data into pings, like morse code
-Martino Jones 20180105
+
 
 
 """
